@@ -2,4 +2,4 @@
 
 Code samples from our Show and Tells.
 
-* [`styled-components`](styled-components) - @cjquinn
+* [`styled-components`](styled-components) - [@cjquinn](https://github.com/cjquinn)
